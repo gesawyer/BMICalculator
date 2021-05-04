@@ -18,8 +18,9 @@ namespace JOoookes.Models
             float totalHeight = (float)((f * 12 + inches)*0.0254);
             float kgWeight = (float)(w * 0.453592);
             float bmiFinal = (kgWeight / totalHeight) * (kgWeight / totalHeight);
-            string message = "Your body mass index is" + bmiFinal + "which means you are";
             string bmiStatus;
+            
+            
             if(bmiFinal <= 18.5)
             {
                 bmiStatus = "underweight!";
@@ -36,7 +37,7 @@ namespace JOoookes.Models
             {
                 bmiStatus = "obese!";
             }
-
+            string message = "Your body mass index is" + bmiFinal + "which means you are";  //+ bmiStatus;
             return message;
         }
        

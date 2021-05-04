@@ -28,9 +28,9 @@ namespace JOoookes.Controllers
             return View();
         }
 
-        public IActionResult Result()
+        public IActionResult Result(Result message)
         {
-            return View();
+            return View(message);
         }
 
         public IActionResult BMIHome()

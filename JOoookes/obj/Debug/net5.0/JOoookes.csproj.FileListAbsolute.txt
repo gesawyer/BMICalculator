@@ -39,3 +39,4 @@ C:\Users\grace\OneDrive\Desktop\JOOOKES\JOoookes\JOoookes\obj\Debug\net5.0\JOooo
 C:\Users\grace\OneDrive\Desktop\JOOOKES\JOoookes\JOoookes\obj\Debug\net5.0\JOoookes.genruntimeconfig.cache
 C:\Users\grace\OneDrive\Desktop\JOOOKES\JOoookes\JOoookes\obj\Debug\net5.0\JOoookes.csproj.CopyComplete
 C:\Users\grace\OneDrive\Desktop\JOOOKES\JOoookes\JOoookes\obj\Debug\net5.0\Razor\Views\Home\BMIHome.cshtml.g.cs
+C:\Users\grace\OneDrive\Desktop\JOOOKES\JOoookes\JOoookes\obj\Debug\net5.0\Razor\Views\Home\Result.cshtml.g.cs
