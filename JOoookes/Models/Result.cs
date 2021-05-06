@@ -12,6 +12,8 @@ namespace JOoookes.Models
         public int weight { get; set; }
         public int bmi { get; set; }
 
+        
+
         public string CalculateBMI(int f, int i, int w)
         {
 
