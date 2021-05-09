@@ -25,7 +25,9 @@ namespace JOoookes.Models
             
             if(bmiFinal <= 18.5)
             {
-                bmiStatus = "underweight!";
+                
+                TempData["bmiStatus"] = "underweight!";
+                
             }
             if (bmiFinal >= 18.5 && bmiFinal <= 24.9)
             {
